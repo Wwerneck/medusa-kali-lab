@@ -1,0 +1,4 @@
+labuser
+ftpuser
+backup-lab
+operator-lab
